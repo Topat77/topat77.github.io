@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.topat77.banksoal",
+        "sha256_cert_fingerprints": ["15:10:7B:EF:B0:24:6C:9B:66:A6:93:70:10:1D:6F:01:55:D7:97:EB:47:58:23:50:54:B9:B2:EE:52:A1:DC:83"]
+      }
+    }]
